@@ -5,3 +5,6 @@ This is my first larger and more practical tool for hacking, I myself only white
 
 > The use of the tool is only legal if the IP addresses or websites you scan are your own, or you have a written permission to scan them! A portscan is otherwise not legal! And you may be liable for it! 
 
+## How does the Tool work?
+
+The tool works quite simply! You enter the IP address for which you want to perform a scan! Then you enter which is the first port you want to scan, and which is the last port you want to scan! It will then scan all ports between the first and the last, and it will check if one of these ports is open. The results are then sent to the console in table form at the end of the scan! 
