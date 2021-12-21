@@ -12,3 +12,9 @@ The tool works quite simply! You enter the IP address for which you want to perf
 ## Important Note:
 
 > The performance of the scans can vary greatly depending on the connection speed and quantity! On average, a scan can take several minutes! So don't be surprised if it takes a few minutes until the table is displayed. I have also added a small progress bar, so you can see how many ports have been scanned!
+
+If there are any recommendations or suggestions for improvement I would be very happy about it! 
+
+## Screenshots
+
+## You can contact me via Discord: R4Z0R#1111!
