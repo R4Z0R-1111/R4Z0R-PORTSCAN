@@ -17,8 +17,8 @@ If there are any recommendations or suggestions for improvement I would be very 
 
 ## Screenshots
 
-https://i.ibb.co/2NxmFBZ/r4z0r-scanner-screenshot-1.png
+![Alt text](https://i.ibb.co/2NxmFBZ/r4z0r-scanner-screenshot-1.png)
 
-https://i.ibb.co/DbMjJzw/r4z0r-portscan-screenshot-2.png
+![Alt text](https://i.ibb.co/DbMjJzw/r4z0r-portscan-screenshot-2.png)
 
 ## You can contact me via Discord: R4Z0R#1111!
